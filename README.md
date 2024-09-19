@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @achihao
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning php, html, css and java
 - 📫 How to reach me angelinerivera906@gmail.com
 
 <!---
